@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    明细
+{% endblock %}
+
+{% block head %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/question_detail.css',v=160) }}">
+{% endblock %}
+
+{% block main %}
+    <h3 class="page-title">{{ question.title }}</h3>
+    <p class="question-info">
+        <span class="question-author">作者：{{ question.author.username }}</span>
+        <span>创建时间；{{ question.create_time }}</span>
+    </p>
+    <hr>
+    <p class="question-content">{{ question.content }}</p>
+    <hr>
+    <div class="comment-group">
+        <h4>评论：（{{ question.comments|length }}）</h4>
+        <form action="{{ url_for('add_comment', question_id=question.id) }}" method="post">
+            <div class="form-group">
+                <input type="text" placeholder="请输入评论" name="add_comment" class="form-control">
+            </div>
+            <div class="form-group btn-right">
+                <button class="btn btn-primary">提交</button>
+            </div>
+        </form>
+        <hr>
+        <ul class="comment-group-ul">
+            {% for comment in question.comments %}
+                <li>
+                    <p class="author-info">
+                        <img src="" alt="" class="avatar">
+                        <span class="author-username">{{ comment.author.username }}</span>
+                        <span class="author-datetime">{{ comment.create_time }}</span>
+                    </p>
+                    <p class="comment-content">{{ comment.content }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+
+{% endblock %}

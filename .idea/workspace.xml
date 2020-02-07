@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdce55e3-9071-40d0-a029-f0c586f860b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XLbVggydNLE3d1sPKgFoEO4lcx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="flask_forum" type="Python.FlaskServer">
+      <module name="flask_forum" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdce55e3-9071-40d0-a029-f0c586f860b8" name="Default Changelist" comment="" />
+      <created>1580828346291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580828346291</updated>
+      <workItem from="1580828351461" duration="702000" />
+      <workItem from="1580829098845" duration="9238000" />
+      <workItem from="1580957890913" duration="320000" />
+      <workItem from="1580958482214" duration="259000" />
+      <workItem from="1580958813928" duration="1275000" />
+      <workItem from="1580963204757" duration="15937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="66" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580893375929">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="66" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.709@0.23.1280.709" timestamp="1580893375929" />
+    <state x="356" y="190" key="EnvironmentVariablesDialog" timestamp="1580893374266">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="356" y="190" key="EnvironmentVariablesDialog/0.23.1280.709@0.23.1280.709" timestamp="1580893374266" />
+    <state width="1218" height="162" key="GridCell.Tab.0.bottom" timestamp="1581060959526">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="162" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1581060959526" />
+    <state width="1218" height="162" key="GridCell.Tab.0.center" timestamp="1581060959525">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="162" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1581060959525" />
+    <state width="1218" height="162" key="GridCell.Tab.0.left" timestamp="1581060959525">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="162" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1581060959525" />
+    <state width="1218" height="162" key="GridCell.Tab.0.right" timestamp="1581060959525">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="162" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1581060959525" />
+    <state x="149" y="23" width="982" height="709" key="SettingsEditor" timestamp="1580959906257">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="149" y="23" width="982" height="709" key="SettingsEditor/0.23.1280.709@0.23.1280.709" timestamp="1580959906257" />
+    <state x="319" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1580963204964">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="319" y="190" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1580963204964" />
+    <state x="305" y="56" width="670" height="676" key="search.everywhere.popup" timestamp="1580918213855">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="305" y="56" width="670" height="676" key="search.everywhere.popup/0.23.1280.709@0.23.1280.709" timestamp="1580918213855" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flask_forum$flask_forum.coverage" NAME="flask_forum Coverage Results" MODIFIED="1581002275036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

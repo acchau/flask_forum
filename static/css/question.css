@@ -1,0 +1,5 @@
+.form-container{
+    width: 500px;
+    margin: 0 auto;
+    text-align: right; /*button是行内元素，设置文字靠右，就会靠右边*/
+}
