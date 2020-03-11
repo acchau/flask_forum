@@ -1,0 +1,7 @@
+说明：
+1.拉取项目之后，根据requirementes.txt安装需要的包(建议安装虚拟环境virtualenvwrapper来管理）
+2.创建数据库,名称为：flask_forum，charset设置为utf8
+3.在config.py文件中数据库连接配置
+4.执行 python manage.py db migrate
+5.执行 python manage.py db upgrade 完成数据库表结构初始化
+6.启动项目
