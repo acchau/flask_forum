@@ -4,9 +4,9 @@ DEBUG = True
 
 # dialect+driver://username:password@host:port/database
 DIALECT = 'mysql'
-DRIVER = 'mysqlconnector'
+DRIVER = 'pymysql'
 USERNAME = 'root'
-PASSWORD = 'qq1031431322'
+PASSWORD = '123456'
 HOST = '127.0.0.1'
 PORT = '3306'
 DATABASE = 'flask_forum'
